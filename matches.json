@@ -10,7 +10,8 @@
             "forca":"5",
             "imagem":"TODO"
         },
-        "visitante":"Argentina",
+        "visitante":{
+            "nome":"Argentina",
             "forca":"5",
             "imagem":"TODO"
         }
